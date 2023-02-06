@@ -1,2 +1,3 @@
 # krishiyantramela.github.io
-Website
+A responsive website made with Bootsrap Studio. 
+Description: Website for agricultural exhibition.
